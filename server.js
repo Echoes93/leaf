@@ -1,5 +1,5 @@
-const config = require("./config/config");
-const createApp = require("./lib/app");
+const config = require('./config/config');
+const createApp = require('./lib/app');
 
 const app = createApp();
 
